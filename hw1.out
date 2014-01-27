@@ -1,0 +1,208 @@
+(S
+  (NP (NNS Scientists))
+  (VP (VBD rescued) (NP (DT a) (NN mouse) (JJ immune) (NN system)))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (MD Will)
+  (NP (DT this))
+  (VP (VB work) (PP (IN in) (NP (NNS humans))))
+  (PUNC ?))
+
+1 parse
+
+
+
+(S
+  (NP (PRP They))
+  (VP
+    (VBD published)
+    (NP (PRPS their) (NN research))
+    (ADVP (RB today))
+    (ADVP (RB online)))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (NP (DT The) (JJ immune) (NN response))
+  (VP
+    (VBZ is)
+    (VP (VBN alerted) (PP (IN by) (NP (JJ dendritic) (NNS cells)))))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (NP (PRP They))
+  (VP
+    (VP (VB capture) (NP (JJ infected) (NNS cells)))
+    (CC and)
+    (VP
+      (VB display)
+      (NP (NNS fragments) (PP (IN of) (NP (DT the) (NN pathogen))))))
+  (PUNC .))
+
+(S
+  (NP (PRP They))
+  (VP
+    (VP (VB capture) (NP (JJ infected) (NNS cells)))
+    (CC and)
+    (VP
+      (VB display)
+      (NPP
+        (NP (NNS fragments))
+        (PP (IN of) (NP (DT the) (NN pathogen))))))
+  (PUNC .))
+
+2 parses
+
+
+
+(S
+  (NP (NNP Dr) (NNP Jose) (NNP Villadangos))
+  (VP
+    (VBZ is)
+    (NPP
+      (NP (DT a) (NN researcher))
+      (PP (IN of) (NP (DT the) (JJ immune) (NN system)))))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (NP (JJ Systemic) (NNS infections))
+  (VP (VBP overstimulate) (NP (JJ dendritic) (NNS cells)))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (NPP (NP (DT A) (JJ new) (NN type)) (PP (IN of) (NP (NN vaccine))))
+  (PUNC ?))
+
+1 parse
+
+
+
+(S
+  (NP (PRP They))
+  (VP
+    (VBD injected)
+    (NP (PRP them))
+    (PP (IN with) (NP (DT a) (JJ live) (NN vaccine))))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (NP (DT The) (NN vaccine))
+  (VP
+    (VBD was)
+    (VP (VBN made) (PP (IN of) (NP (JJ dendritic) (NNS cells)))))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (NP (PRP They))
+  (VP
+    (VBD restored)
+    (NP (NN immunity))
+    (PP
+      (IN in)
+      (NPP
+        (NP (NNS mice))
+        (PP (IN with) (NP (DT a) (JJ weak) (JJ immune) (NN system))))))
+  (PUNC .))
+
+(S
+  (NP (PRP They))
+  (VP
+    (VBD restored)
+    (NP (NN immunity))
+    (PP
+      (IN in)
+      (NP
+        (NNS mice)
+        (PP (IN with) (NP (DT a) (JJ weak) (JJ immune) (NN system))))))
+  (PUNC .))
+
+(S
+  (NP (PRP They))
+  (VP
+    (VBD restored)
+    (NP (NN immunity))
+    (PP (IN in) (NP (NNS mice)))
+    (PP (IN with) (NP (DT a) (JJ weak) (JJ immune) (NN system))))
+  (PUNC .))
+
+3 parses
+
+
+
+(S
+  (NP (PRPS Their) (JJ immune) (NN system))
+  (VP (VBD was) (VP (VBN compromised) (PP (IN by) (NP (NN sepsis)))))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (PP
+    (IN In)
+    (NPP (NP (DT the) (NN case)) (PP (IN of) (NP (NNS infections)))))
+  (PUNC ,)
+  (NP (NNS cells))
+  (VP (VB alert) (NP (DT the) (JJ immune) (NN system)))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (NP (DT The) (JJ immune) (NN system))
+  (VP (VBZ shuts) (PRT (RP down)))
+  (PUNC .))
+
+1 parse
+
+
+
+(S
+  (NP (NNS Scientists))
+  (VP
+    (VBP have)
+    (VP
+      (VBN discovered)
+      (SBAR
+        (IN that)
+        (CL
+          (NP (NN malaria))
+          (VP (VBZ invades) (NP (DT the) (JJ whole) (NN body)))))))
+  (PUNC .))
+
+1 parse
+
+
+
+The average number of parses per sentence obtained by the grammar is 1
